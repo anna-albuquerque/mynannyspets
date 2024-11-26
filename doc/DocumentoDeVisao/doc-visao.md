@@ -9,7 +9,7 @@
 | 30/05/2023 |  1.2   | Versão revisada |                        Anna Carolinne                        |
 | 19/09/2023 |  2.0   |  Revisão Geral  |              Anna Carolinne, Renato Bernardino               |
 | 03/10/2023 |  2.1   |  Revisão Geral  | Anna Carolinne, Renato Bernardino, Virginia Claudia, Gabriel Ricardo |
-
+| 26/11/2024 |  2.2   | Versão revisada |                        Anna Carolinne                        |
 
 ## 1. Objetivo do projeto
 
