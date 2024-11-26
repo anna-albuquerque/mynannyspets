@@ -12,4 +12,3 @@
 * [CDU-004 - **Gerenciar perfil**](cdu-004/detalhamento-004.md)
 * [CDU-005 - **Buscar cuidador**](cdu-005/detalhamento-005.md)
 * [CDU-006 - **Avaliar cuidador**](cdu-006/detalhamento-006.md)   
-* [CDU-007 - **Avaliar tutor**](cdu-007/cdu-007.md)
