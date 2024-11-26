@@ -79,5 +79,7 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 | Código |        Nome         |                          Descrição                           |  Categoria  | Classificação |
 | :----: | :-----------------: | :----------------------------------------------------------: | :---------: | :-----------: |
 |  NF01  | Segurança dos Dados |        Manter os dados pessoais dos usuários privados        |  Segurança  |   Essencial   |
-|  NF02  |   Responsividade    | O Sistema Web deve ser responsivo para o uso em diversos dispositivos | Usabilidade |   Desejável   |
-|  NF03  |    Funcionamento    | O Sistema deve suportar o uso de vários usuários ao mesmo tempo com qualidade e velocidade | Usabilidade |    Desejável   |
+|  NF02  | Segurança dos Dados | O sistema deve garantir a proteção dos dados dos usuários contra acessos não autorizados | Segurança |   Essencial |  
+|  NF03  |   Compatibilidade    | O sistema deve ser compatível com os principais navegadores de internet, incluindo Chrome, Firefox e Safari  | Usabilidade |   Desejável   |
+|  NF04  |   Responsividade    | O Sistema Web deve ser responsivo para o uso em diversos dispositivos | Usabilidade |   Desejável   |  
+|  NF05  |    Funcionamento    | O Sistema deve suportar o uso de vários usuários ao mesmo tempo, com qualidade e velocidade | Usabilidade |    Desejável   |
