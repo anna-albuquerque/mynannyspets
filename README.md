@@ -7,6 +7,8 @@ O projeto Nanny's Pets tem como objetivo desenvolver um sistema para o serviço 
 </br>
 
 # Equipe e Formas de Contato
+Versão 2.1 
+1. Anna Carolinne - [GitHub](https://github.com/anna-albuquerque)  
 
 Versão 2.0 
 1. Anna Carolinne - [GitHub](https://github.com/anna-albuquerque) 
@@ -17,12 +19,6 @@ Versão 2.0
 
 **Orientador:** Plácido Neto - [GitHub](https://github.com/placidoneto)
 
-</br>
-
-# Horário de Reuniões:
-Presencialmente com o orientador às quinta-feiras no campus IFRN-Central.  
-
-Reuniões on-line nas segunda-feira às 20h e em outro dia da semana que sempre é escolhido na reunião à depender das demandas.   
 </br>
 
 # Ferramentas e tecnologias utilizadas no desenvolvimento do projeto:
