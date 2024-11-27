@@ -6,9 +6,9 @@
 
 ## 2. Listagem dos detalhamentos dos casos de uso
 
-* [CDU-001 - **Realizar cadastro de tutor no site**](cdu-001/detalhamento-001.md)
-* [CDU-002 - **Realizar cadastro de cuidador no site**](cdu-002/detalhamento-002.md)
+* [CDU-001 - **Realizar cadastro de tutor no site**](CadastrarTutor.md)
+* [CDU-002 - **Realizar cadastro de cuidador no site**](CadastrarCuidador.md)
 * [CDU-003 - **Realizar login**](cdu-003/detalhamento-003.md)
 * [CDU-004 - **Gerenciar perfil**](cdu-004/detalhamento-004.md)
-* [CDU-005 - **Buscar cuidador**](cdu-005/detalhamento-005.md)
+* [CDU-005 - **Buscar cuidador**](BuscarCuidador.md)
 * [CDU-006 - **Avaliar cuidador**](cdu-006/detalhamento-006.md)   
