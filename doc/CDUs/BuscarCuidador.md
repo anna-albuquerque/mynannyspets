@@ -9,6 +9,7 @@
 | 30/05/2023 | 1.1 | Revisão dos detalhamentos para simplificar | Anna Carolinne |
 | 02/01/2024 | 2.0 | Atualização do detalhamento | Virginia Menezes |
 | 05/01/2024 | 2.0 | Atualização do detalhamento | Anna Carolinne |
+| 27/11/2024 | 2.1 | Atualização do detalhamento | Anna Carolinne |
 </br>
 
 ### **1 Resumo**
