@@ -29,17 +29,29 @@ O tutor busca um cuidador através das características que o cuidador preencheu
 
 | **Ações do ator** | **Ações do sistema** | 
 | --- | --- |
-| 1. Acessar a plataforma | Carregar página inicial da plataforma Nanny’s Pet | 
-| 2. Clicar em "Buscar cuidador"| Carrega a página com os requisitos que o tutor pode selecionar. | 
-| 3. Digitar a localização (endereço ou bairro, para localizar cuidadores próximos) e selecionar os requisitos desejados no cuidador e clicar  em "Mostrar resultados" | Exibe a listagem dos cuidadores que preenchem os requisitos solicitados e estão próximos a localização informada. | 
-
+| 1. Acessar a plataforma |	Carregar página inicial da plataforma Nanny’s Pet |  
+| 2. Fazer login | Sistema atualiza a página inicial, com o usuário já logado na plataforma Nanny’s Pet |  
+| 3. Clicar em "Nossos Cuidadores"	| O sistema carrega a página com a barra de pesquisa por cidade / localidade |  
+| 4. Digitar a cidade (a busca vai sendo filtrada a cada letra que é digitada) |  O sistema exibirá todos os cuidadores daquela localidade |  
+</br>
+  
 
 **5.1 Fluxo alternativo**
 
 | **Ações do ator** | **Ações do sistema** | 
 | --- | --- |
-| 1. Acessar a plataforma | Carregar página inicial da plataforma Nanny’s Pet | 
-| 2. Clicar em "Buscar cuidador" | Carrega a página com os requisitos que o tutor pode selecionar. | 
-| 3. Clicar  em "Mostrar resultados" | Exibe a listagem com todos cuidadores cadastrados sem distinção de requisitos ou localidade | 
+| 1. Acessar a plataforma | Carregar página inicial da plataforma Nanny’s Pet |  
+| 2. Fazer login | Sistema atualiza a página inicial, com o usuário já logado na plataforma Nanny’s Pet |  
+| 3. Clicar em "Nossos Cuidadores"	| O sistema carrega a página com a barra de pesquisa por cidade / localidade |  
+| 4. Digitar a cidade (a busca vai sendo filtrada a cada letra digitada) | O sistema vai atualizando a página e não exibe nenhum cuidador |  
+  </br>
+    
+  **5.2 Fluxo alternativo**
+
+| **Ações do ator** | **Ações do sistema** | 
+| --- | --- |
+| 1. Acessar a plataforma | Carregar página inicial da plataforma Nanny’s Pet |  
+| 2. Clicar em “Nossos Cuidadores” | A página dos cuidadores só é visível para usuários logados. O sistema atualiza a página com a mensagem “Bem vindo(a) à Plataforma!” e solicitando _'Nome de Usuário'_ e _'Senha'_ para Login. |
+| 3. Fazer cadastro	| Usuário clica em _“Cadastre-se”_ |
 
 -----------------------------------
