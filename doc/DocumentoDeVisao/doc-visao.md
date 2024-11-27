@@ -59,6 +59,8 @@ E a ambito regional, temos algumas opções como:    </br>
 
 * **Lar Dog Lar - Day Care e Hospedagem** hospedagem animal no bairro do Pitimbu - R. Serra do Tombador, 8098 - Pitimbú, Natal - RN, 59068-160 https://hotelzinhopetlardoglar.negocio.site/    </br>
 
+* **My Best Nanny** hotel e day care em duas localizações: Capim Macio https://www.instagram.com/mybestnanny/ e Candelária https://www.instagram.com/mybestnannycandel/
+
 ## 7. Visão geral do produto
 
 Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro, disposição, amor e carinho para acolher animais de estimação, com indivíduos em busca de cuidadores de confiança para garantir o bem-estar de seus amados animaizinhos nas horas de necessidade.  </br></br>
