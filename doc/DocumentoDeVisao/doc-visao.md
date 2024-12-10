@@ -9,7 +9,7 @@
 | 30/05/2023 |  1.2   | Versão revisada |                        Anna Carolinne                        |
 | 19/09/2023 |  2.0   |  Revisão Geral  |              Anna Carolinne, Renato Bernardino               |
 | 03/10/2023 |  2.1   |  Revisão Geral  | Anna Carolinne, Renato Bernardino, Virginia Claudia, Gabriel Ricardo |
-| 27/11/2024 |  2.2   | Versão revisada |                        Anna Carolinne                        |
+|10/12/2024 |  2.2   | Versão revisada |                        Anna Carolinne                        |
 
 ## 1. Objetivo do projeto
 
@@ -86,3 +86,13 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 |  NF04  |   Responsividade    | O Sistema Web deve ser responsivo para o uso em diversos dispositivos | Portabilidade |   Desejável   |  
 |  NF05  |    Funcionamento    | O Sistema deve suportar o uso de vários usuários ao mesmo tempo, com qualidade e velocidade | Usabilidade |    Desejável   |
 |  NF06  |    Qualidade de Software  | Adequar o projeto dentro das normas de qualidade de software passando em todos os testes | Organizacionais |    Desejável   |
+
+## 10. Glossário
+
+| Termo | Significado |
+| :-----------------: | :----------------- | 
+| - Tutor |  Dono do pet, responsável pelo animal que será hospedado. |   
+| - Cuidador |  Aquele que hospeda o animal temporariamente em sua residência. |   
+| - Pet |    Animal de estimação do tutor que será hospedado. |   
+| - Hospedagem |    Procedimento temporário de acolhimento do animal feito pelo cuidador. |   
+| - Residência |      Local onde o pet será hospedado pelo cuidador. |   
