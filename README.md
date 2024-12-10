@@ -8,8 +8,9 @@ O projeto Nanny's Pets tem como objetivo desenvolver um sistema para o serviço 
 
 **Observações importantes:** O início do projeto surgiu na disciplina de Projeto de Desenvolvimento de Sistema Web, e foi sendo desenvolvido e aprimorado ao longo das disciplinas de Projeto de Desenvolvimento de Sistema Distribuído e Projeto de Desenvolvimento de Sistema Coorporativo até termos o projeto em sua [versão 2.0.](https://github.com/anna-albuquerque/mynannyspets/releases/tag/EngenhariaDeRequisitos)
 </br>
-A partir daí, as alterações no projeto feitas neste repositório foram feitas pelo membro da equipe: Anna Carolinne.
-
+A partir daí as alterações no projeto feitas neste repositório foram feitas pelo membro da equipe: Anna Carolinne, para satisfazer requisitos da disciplina de Engenharia de requisitos para melhoria de artefatos. 
+</br>  
+</br>
 
 # Equipe e Formas de Contato
 Versão 2.1 
