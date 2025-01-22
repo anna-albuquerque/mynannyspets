@@ -10,6 +10,7 @@
 | 19/09/2023 |  2.0   |  Revisão Geral  |              Anna Carolinne, Renato Bernardino               |
 | 03/10/2023 |  2.1   |  Revisão Geral  | Anna Carolinne, Renato Bernardino, Virginia Claudia, Gabriel Ricardo |
 |10/12/2024 |  2.2   | Versão revisada |                        Anna Carolinne                        |
+|22/01/2025 |  2.3   | Versão revisada |                        Anna Carolinne                        |
 
 ## 1. Objetivo do projeto
 
@@ -75,17 +76,20 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 |  RF04   |   Visualizar cuidadores mais requisitados e/ou melhor avaliados   | Os cuidadores cadastrados na plataforma recebem uma avaliação pelos tutores que já hospedaram com ele e o ranking dessas avaliações aparece na hora de mostrar o resultado das pesquisas dos cuidadores, mostrando primeiro os "melhores" avaliados. Assim como os cuidadores que tem o maior número de hospedagens solicidatas. Tornando esse um diferencial de realizar o processo de hospedagem pela plataforma.   | Essencial  |
 |  RF05   |  Avaliar hospedagem de tutor  | Os cuidadores após hospedar um pet, também avaliam o seu tutor de maneira geral podendo levar em consideração vários aspectos como por exemplo: pontualidade para deixar e retirar o pet, se o pet estava bem cuidado, etc. Essa avaliação também ajuda aos cuidadores a saber se aquele tutor é ou não um bom cliente. | Desejável  |
 
+</br>
 
 ## 9. Requisitos não-funcionais
 
-| Código |        Nome         |                          Descrição                           |  Categoria  | Classificação |
-| :----: | :-----------------: | :----------------------------------------------------------: | :---------: | :-----------: |
-|  NF01  | Segurança dos Dados |        Manter os dados pessoais dos usuários privados        |  Segurança  |   Essencial   |
-|  NF02  | Segurança dos Dados | O sistema deve garantir a proteção dos dados dos usuários contra acessos não autorizados | Segurança |   Essencial |  
-|  NF03  |   Compatibilidade    | O sistema deve ser compatível com os principais navegadores de internet, incluindo Chrome, Firefox e Safari  | Usabilidade |   Desejável   |
-|  NF04  |   Responsividade    | O Sistema Web deve ser responsivo para o uso em diversos dispositivos | Portabilidade |   Desejável   |  
-|  NF05  |    Funcionamento    | O Sistema deve suportar o uso de vários usuários ao mesmo tempo, com qualidade e velocidade | Usabilidade |    Desejável   |
-|  NF06  |    Qualidade de Software  | Adequar o projeto dentro das normas de qualidade de software passando em todos os testes | Organizacionais |    Desejável   |
+| Código |        Nome         |                          Descrição                           |  Categoria ISO/IEC 25010  | Subcategoria ISO/IEC 25010 | Classificação |
+| :----: | :-----------------: | :----------------------------------------------------------: | :---------: | :----------: | :-----------: |
+|  NF01  | Segurança dos Dados | Manter os dados pessoais dos usuários privados |  Segurança  | Confidencialidade |  Essencial   |   
+|  NF02  | Segurança dos Dados | Capacidade de prevenir acesso não-autorizado e modificação de dados ou programas de computador | Segurança | Integridade |  Essencial |  
+|  NF03  |   Facilidade    | Facilidade de aprender como utilizar o produto ou sistema  | Usabilidade | Capacidade de aprendizado |   Desejável   |   
+|  NF04  |   Diversidade de sistemas | Por ser um sistema web, tem a capacidade de poder ser utilizado diversos sistemas | Manutenibilidade | Reusabilidade  |   Desejável   |  
+|  NF05  |    Eficiência   | Relacionado à performance do sistema relacionada à quantidade de recursos utilizados e ao tempo de resposta e processamento | Eficiência de performance |	Comportamento do tempo |    Desejável   |   
+|  NF06  |    Qualidade de Software  | Quão bom o projeto é em realizar tarefas e objetivos específicos | Adequação funcional | Adequação funcional |    Essencial   |   
+
+</br>
 
 ## 10. Glossário
 
