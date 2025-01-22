@@ -69,7 +69,7 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 ## 8. Requisitos funcionais
 
 | Código |        Nome         |                          Descrição                           | Prioridade |
-| :----: | :-----------------: | :----------------------------------------------------------: | :--------: |
+| :----: | :------------------ | :----------------------------------------------------------- | :--------: |
 |  RF01   |   Gerenciar dados de cuidador   |      O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações. No caso do cuidador temos as informações básicas do cadastro de usuário. Adicionada a essas informações, temos ainda o checklist com as características do cuidador, e as fotos do ambiente onde ele vai hospedar os pets.     | Essencial  |
 |  RF02   | Gerenciar dados de tutor  |    O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações como nome, sobrenome, data de nascimento, cpf, e-mail e foto de perfil.  | Essencial  |
 |  RF03   |    Encontrar cuidadores   |   Ao acessar a plataforma e entrar na parte de encontrar cuidador, o usuário vai escolher todas as características que ele procura em um cuidador, digitar seu endereço (para localizar cuidadores próximos) e então clicar em pesquisar para que a busca liste os cuidadores com aquelas caracterísicas que vão atender às suas necessidades.   | Essencial  |
@@ -80,8 +80,8 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 
 ## 9. Requisitos não-funcionais
 
-| Código |        Nome         |                          Descrição                           |  Categoria ISO/IEC 25010  | Subcategoria ISO/IEC 25010 | Classificação |
-| :----: | :-----------------: | :----------------------------------------------------------: | :---------: | :----------: | :-----------: |
+| Código |        Nome         |          Descrição         |  Categoria ISO/IEC 25010  | Subcategoria ISO/IEC 25010 | Classificação |
+| :----: | :------------------ | :------------------------- | :-----------------------: | :------------------------: | :-----------: |
 |  NF01  | Segurança dos Dados | Manter os dados pessoais dos usuários privados |  Segurança  | Confidencialidade |  Essencial   |   
 |  NF02  | Segurança dos Dados | Capacidade de prevenir acesso não-autorizado e modificação de dados ou programas de computador | Segurança | Integridade |  Essencial |  
 |  NF03  |   Facilidade    | Facilidade de aprender como utilizar o produto ou sistema  | Usabilidade | Capacidade de aprendizado |   Desejável   |   
@@ -94,9 +94,9 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 ## 10. Glossário
 
 | Termo | Significado |
-| :-----------------: | :----------------- | 
-| - Tutor |  Dono do pet, responsável pelo animal que será hospedado. |   
-| - Cuidador |  Aquele que hospeda o animal temporariamente em sua residência. |   
-| - Pet |    Animal de estimação do tutor que será hospedado. |   
-| - Hospedagem |    Procedimento temporário de acolhimento do animal feito pelo cuidador. |   
-| - Residência |      Local onde o pet será hospedado pelo cuidador. |   
+| :----------------- | :----------------- | 
+| - Tutor |  Dono do pet, responsável pelo animal que será hospedado |   
+| - Cuidador |  Aquele que hospeda o animal temporariamente em sua residência |   
+| - Pet |    Animal de estimação do tutor que será hospedado |   
+| - Hospedagem |    Procedimento temporário de acolhimento do animal feito pelo cuidador |   
+| - Residência |      Local onde o pet será hospedado pelo cuidador |   
