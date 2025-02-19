@@ -4,13 +4,13 @@
 
 |    Data    | Versão |    Descrição    |                           Autores                            |
 | :--------: | :----: | :-------------: | :----------------------------------------------------------: |
-| 25/04/2023 |  1.0.0   | Versão inicial  |                       Walber Ranniere                        |
-| 09/05/2023 |  1.0.1   | Versão revisada |                        Anna Carolinne                        |
-| 30/05/2023 |  1.0.2   | Versão revisada |                        Anna Carolinne                        |
-| 19/09/2023 |  2.0.0   |  Revisão Geral  |              Anna Carolinne, Renato Bernardino               |
-| 03/10/2023 |  2.0.1   |  Revisão Geral  | Anna Carolinne, Renato Bernardino, Virginia Claudia, Gabriel Ricardo |
-|10/12/2024 |  2.0.2   | Versão revisada |                        Anna Carolinne                        |
-|22/01/2025 |  2.0.3   | Versão revisada |                        Anna Carolinne                        |
+| 25/04/2023 |  1.0  | Versão inicial  |                       Walber Ranniere                        |
+| 09/05/2023 |  1.1   | Versão revisada |                        Anna Carolinne                        |
+| 30/05/2023 |  1.2   | Versão revisada |                        Anna Carolinne                        |
+| 19/09/2023 |  2.0   |  Revisão Geral  |              Anna Carolinne, Renato Bernardino               |
+| 03/10/2023 |  2.1   |  Revisão Geral  | Anna Carolinne, Renato Bernardino, Virginia Claudia, Gabriel Ricardo |
+|10/12/2024 |  2.2   | Versão revisada |                        Anna Carolinne                        |
+|22/01/2025 |  2.3   | Versão revisada |                        Anna Carolinne                        |
 
 ## 1. Objetivo do projeto
 
