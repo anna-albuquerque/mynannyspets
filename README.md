@@ -13,10 +13,10 @@ A partir daí as alterações no projeto feitas neste repositório foram feitas 
 </br>
 
 # Equipe e Formas de Contato
-Versão 2.1 
+Versão 2.0.1
 1. Anna Carolinne - [GitHub](https://github.com/anna-albuquerque)  
 
-Versão 2.0 - [Repositório Oficial](https://github.com/tads-cnat/nannys-pet)
+Versão 2.0.0 - [Repositório Oficial](https://github.com/tads-cnat/nannys-pet)
 1. Anna Carolinne - [GitHub](https://github.com/anna-albuquerque) 
 2. Joana Fernandes - [Github](https://github.com/JoanaFernandes1998)
 3. Renato Bernardino - [GitHub](https://github.com/renatobernardinodasilva)
