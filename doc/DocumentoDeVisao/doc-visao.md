@@ -68,26 +68,26 @@ Uma plataforma que conecta pessoas com tempo, qualificação, um ambiente seguro
 
 ## 8. Requisitos funcionais
 
-| Código |        Nome         |                          Descrição                           | Prioridade |
-| :----: | :------------------ | :----------------------------------------------------------- | :--------: |
-|  RF01   |   Gerenciar dados de cuidador   |      O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações. No caso do cuidador temos as informações básicas do cadastro de usuário. Adicionada a essas informações, temos ainda o checklist com as características do cuidador, e as fotos do ambiente onde ele vai hospedar os pets.     | Essencial  |
-|  RF02   | Gerenciar dados de tutor  |    O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações como nome, sobrenome, data de nascimento, cpf, e-mail e foto de perfil.  | Essencial  |
-|  RF03   |    Encontrar cuidadores   |   Ao acessar a plataforma e entrar na parte de encontrar cuidador, o usuário vai escolher todas as características que ele procura em um cuidador, digitar seu endereço (para localizar cuidadores próximos) e então clicar em pesquisar para que a busca liste os cuidadores com aquelas caracterísicas que vão atender às suas necessidades.   | Essencial  |
-|  RF04   |   Visualizar cuidadores mais requisitados e/ou melhor avaliados   | Os cuidadores cadastrados na plataforma recebem uma avaliação pelos tutores que já hospedaram com ele e o ranking dessas avaliações aparece na hora de mostrar o resultado das pesquisas dos cuidadores, mostrando primeiro os "melhores" avaliados. Assim como os cuidadores que tem o maior número de hospedagens solicidatas. Tornando esse um diferencial de realizar o processo de hospedagem pela plataforma.   | Essencial  |
-|  RF05   |  Avaliar hospedagem de tutor  | Os cuidadores após hospedar um pet, também avaliam o seu tutor de maneira geral podendo levar em consideração vários aspectos como por exemplo: pontualidade para deixar e retirar o pet, se o pet estava bem cuidado, etc. Essa avaliação também ajuda aos cuidadores a saber se aquele tutor é ou não um bom cliente. | Desejável  |
+| Requisito |        Nome         |                          Descrição                           | Prioridade | Responsável |
+| :----: | :------------------ | :----------------------------------------------------------- | :--------: | :--------: |
+|  RF01   |   Gerenciar dados de cuidador   |      O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações. No caso do cuidador temos as informações básicas do cadastro de usuário. Adicionada a essas informações, temos ainda o checklist com as características do cuidador, e as fotos do ambiente onde ele vai hospedar os pets.     | Essencial  | Renato |
+|  RF02   | Gerenciar dados de tutor  |    O sistema permite o registro e gerenciamento de dados de usuários, isso inclui a coleta, armazenamento, atualização e exclusão de informações como nome, sobrenome, data de nascimento, cpf, e-mail e foto de perfil.  | Essencial  | Wemerson |
+|  RF03   |    Encontrar cuidadores   |   Ao acessar a plataforma e entrar na parte de encontrar cuidador, o usuário vai escolher todas as características que ele procura em um cuidador, digitar seu endereço (para localizar cuidadores próximos) e então clicar em pesquisar para que a busca liste os cuidadores com aquelas caracterísicas que vão atender às suas necessidades.   | Essencial  | Anna |
+|  RF04   |   Visualizar cuidadores mais requisitados e/ou melhor avaliados   | Os cuidadores cadastrados na plataforma recebem uma avaliação pelos tutores que já hospedaram com ele e o ranking dessas avaliações aparece na hora de mostrar o resultado das pesquisas dos cuidadores, mostrando primeiro os "melhores" avaliados. Assim como os cuidadores que tem o maior número de hospedagens solicidatas. Tornando esse um diferencial de realizar o processo de hospedagem pela plataforma.   | Essencial  | Renato |
+|  RF05   |  Avaliar hospedagem de tutor  | Os cuidadores após hospedar um pet, também avaliam o seu tutor de maneira geral podendo levar em consideração vários aspectos como por exemplo: pontualidade para deixar e retirar o pet, se o pet estava bem cuidado, etc. Essa avaliação também ajuda aos cuidadores a saber se aquele tutor é ou não um bom cliente. | Desejável  | Anna |
 
 </br>
 
 ## 9. Requisitos não-funcionais
 
-| Código |        Nome         |          Descrição         |  Categoria ISO/IEC 25010  | Subcategoria ISO/IEC 25010 | Classificação |
-| :----: | :------------------ | :------------------------- | :-----------------------: | :------------------------: | :-----------: |
-|  NF01  | Segurança dos Dados | Manter os dados pessoais dos usuários privados |  Segurança  | Confidencialidade |  Essencial   |   
-|  NF02  | Segurança dos Dados | Capacidade de prevenir acesso não-autorizado e modificação de dados ou programas de computador | Segurança | Integridade |  Essencial |  
-|  NF03  |   Facilidade    | Facilidade de aprender como utilizar o produto ou sistema  | Usabilidade | Capacidade de aprendizado |   Desejável   |   
-|  NF04  |   Diversidade de sistemas | Por ser um sistema web, tem a capacidade de poder ser utilizado diversos sistemas | Manutenibilidade | Reusabilidade  |   Desejável   |  
-|  NF05  |    Eficiência   | Relacionado à performance do sistema relacionada à quantidade de recursos utilizados e ao tempo de resposta e processamento | Eficiência de performance |	Comportamento do tempo |    Desejável   |   
-|  NF06  |    Qualidade de Software  | Quão bom o projeto é em realizar tarefas e objetivos específicos | Adequação funcional | Adequação funcional |    Essencial   |   
+| Requisito |        Nome         |          Descrição         |  Categoria ISO/IEC 25010  | Subcategoria ISO/IEC 25010 | Classificação | Responsável |
+| :----: | :------------------ | :------------------------- | :-----------------------: | :------------------------: | :-----------: | :-----------: |
+|  NF01  | Segurança dos Dados | Manter os dados pessoais dos usuários privados |  Segurança  | Confidencialidade |  Essencial   | Anna |  
+|  NF02  | Segurança dos Dados | Capacidade de prevenir acesso não-autorizado e modificação de dados ou programas de computador | Segurança | Integridade |  Essencial |   Virginia | 
+|  NF03  |   Facilidade    | Facilidade de aprender como utilizar o produto ou sistema  | Usabilidade | Capacidade de aprendizado |   Desejável   |  Joana | 
+|  NF04  |   Diversidade de sistemas | Por ser um sistema web, tem a capacidade de poder ser utilizado diversos sistemas | Manutenibilidade | Reusabilidade  |   Desejável   |   Anna | 
+|  NF05  |    Eficiência   | Relacionado à performance do sistema relacionada à quantidade de recursos utilizados e ao tempo de resposta e processamento | Eficiência de performance |	Comportamento do tempo |    Desejável   |  Virginia | 
+|  NF06  |    Qualidade de Software  | Quão bom o projeto é em realizar tarefas e objetivos específicos | Adequação funcional | Adequação funcional |    Essencial   |    Joana | 
 
 </br>
 
